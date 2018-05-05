@@ -5,3 +5,4 @@
     pgrep firefox
 杀了火狐的进程:
     kill -s 9 1827
+
